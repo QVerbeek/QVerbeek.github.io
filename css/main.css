@@ -5,3 +5,23 @@ body{
 .navbar{
     background-color: #f6c71f;
 }
+
+* {box-sizing: border-box}
+
+.skill{
+    background: #413b3b;
+    border: white 4px solid;
+  
+}
+
+.skills {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  border: white 2px solid;
+}
+
+.html {width: 90%; background-color: orange;}
+.css {width: 85%; background-color: #2196F3;}
+.js {width: 45%; background-color: rgb(165, 136, 72);}
