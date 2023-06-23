@@ -25,3 +25,8 @@ body{
 .html {width: 90%; background-color: orange;}
 .css {width: 85%; background-color: #2196F3;}
 .js {width: 45%; background-color: rgb(165, 136, 72);}
+
+.image{
+    width: 350px;
+    height: 500px;
+}
